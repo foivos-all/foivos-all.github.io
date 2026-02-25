@@ -6,8 +6,5 @@ main:
   - title: "Open Source"
     url: /open-source/
 
-  - title: "Teaching"
-    url: /teaching/    
-     
   - title: "CV"
     url: /cv/

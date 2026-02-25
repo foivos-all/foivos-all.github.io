@@ -26,11 +26,3 @@ Education
 Publications
 ======
 See [Publications](/publications/)
-
-Talks
-======
-See [Talks](/talks/)
-
-Teaching
-======
-See [Teaching](/teaching/)
