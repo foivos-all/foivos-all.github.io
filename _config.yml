@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Fivos Allagiotis"
-  avatar           : "/files/FivosAllagiotis.jpg"
+  avatar           : "/images/FivosAllagiotis.jpg"
   bio              : "AI/ML Software Engineer"
   location         : "San Francisco Bay Area"
   employer         :
